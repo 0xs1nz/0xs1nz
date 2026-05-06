@@ -18,6 +18,5 @@ My main focus is **IC Design & Verification**—ensuring hardware is as clean as
 
 ### **A Bit About Me**
 
-*   **Automotive:** **BMW** enthusiast (**E39** is the legend) and **F1** engineering fan.
-*   **Sports Entertainment:** **WWE** strategy and performance mechanics devotee.
-*   **Productivity:** Focused on **Keyboard-centric workflows** and CLI efficiency.
+*   **BMW** enthusiast (**E39** is the legend)
+*   **F1** engineering and car mechanics fan

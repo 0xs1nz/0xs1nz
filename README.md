@@ -18,5 +18,5 @@ My main focus is **IC Design & Verification**—ensuring hardware is as clean as
 
 ### **A Bit About Me**
 
-*   **BMW** enthusiast (**E39** is the legend)
-*   **F1** engineering and car mechanics fan
+*   🐻**BMW** enthusiast (**E39** is the legend)
+*   🏎️**F1** engineering and car mechanics fan

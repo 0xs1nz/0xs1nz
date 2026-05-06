@@ -10,13 +10,14 @@ My main focus is **IC Design & Verification**—ensuring hardware is as clean as
 
 ### **Tech & Tools**
 
-*   **Languages:** **C**, **Python**, **SystemVerilog**, **Bash**, **Django**
-*   **Systems:** **Linux** (CLI addict), **Git**, **Docker**
-*   **Hardware:** **Arduino**, **Logic Analyzers**, **FPGA tools**
+*   **C**, **Python**, **SystemVerilog**, **Bash**, **Django**
+*   **Linux** (CLI addict), **Git**, **Docker**
+*   **Arduino**, **Logic Analyzers**, **FPGA tools**
 
 ---
 
 ### **A Bit About Me**
 
+*   Not a coffee or tea person
 *   🐻**BMW** enthusiast (**E39** is the legend)
 *   🏎️**F1** engineering and car mechanics fan

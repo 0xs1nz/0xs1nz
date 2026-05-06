@@ -1,1 +1,19 @@
-Hey there! 👋I'm Motaz, a Computer Engineering student based in Amman, Jordan.  I'm deeply passionate about the intersection of hardware and software, specifically in IC Design & Verification.  If a problem requires low-level logic, high-performance C, or deep system optimization, I’ll find a way to build it.  My main tech stack is C, Python, and Linux. I'm currently honing my skills in SystemVerilog and mastering verification methodologies to ensure the next generation of chips is bug-free.  I’m proud to be a 42 Amman Student (successfully crushed the Piscine and made it to the Core Program!) while finishing my senior year at FET - Polytechnic.I’ve got some cool projects pinned below, ranging from IR Signal Cloning with Arduino to AI-driven University Systems.  When I'm not in front of a terminal, you can probably find me talking about cars or engineering.Fun Facts:I'm a massive BMW enthusiast (E39 and E36 are the legends)Huge fan of Formula 1 engineeringI enjoy building worlds in Minecraft and surviving horror titles like Poppy PlaytimeHobbies: Tinkering with hardware, car mechanics, and striving for a keyboard-only workflow
+Hey there 👋
+
+I'm Motaz, a Computer Engineering student at FET - Polytechnic.
+
+I build and verify systems at the logic level. I successfully crushed the 42 Amman Piscine and I'm now a student in the Core Program.  
+
+My main focus is IC Design & Verification—ensuring hardware is as clean as the code.  
+
+Tech & Tools
+  Languages: C, Python, SystemVerilog, Bash, Django  
+
+  Systems: Linux (CLI addict), Git, Docker  
+
+  Hardware: Arduino, Logic Analyzers, FPGA tools  
+
+A Bit About Me
+  BMW enthusiast (E39 are the legend)
+
+  F1 engineering and car mechanics fan

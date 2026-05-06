@@ -18,6 +18,6 @@ My main focus is **IC Design & Verification**—ensuring hardware is as clean as
 
 ### **A Bit About Me**
 
-*   Not a coffee or tea person
+*   🍵**Not** a coffee or tea person
 *   🐻**BMW** enthusiast (**E39** is the legend)
 *   🏎️**F1** engineering and car mechanics fan

@@ -19,5 +19,5 @@ My main focus is DevOps & Infrastructure—building resilient pipelines, automat
 ### **A Bit About Me**
 
 *   🍵**Not** a coffee or tea person
-*   🐻**BMW** enthusiast (**E39** is the legend)
+*   🐻**BMW** enthusiast
 *   🏎️**F1** engineering and car mechanics fan

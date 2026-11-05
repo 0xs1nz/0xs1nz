@@ -1,26 +1,27 @@
 ```text
-andrew@grant -----------------------------------------------------
-. OS: ............................. Windows 10, Android 14, Linux
-. Uptime: ......................... 22 years, 5 months, 29 days
-. Host: ........................... TTM Technologies, Inc.
-. Kernel: .... CAM (Computer Aided Manufacturing) Operator
-. IDE: ............................ IDEA 2023.3.2, VSCode 1.96.0
+sanz@nixos -------------------------------------------------------
+. OS: ........................... NixOS, Linux (Hyprland Wayland)
+. Uptime: ....................... 22 years
+. Host: ......................... 42 Network & HTU Semi-conductor
+. Kernel: ...... sanzOS (x86 Bare-Metal) / Custom Core Developer
+. Dev_Env: ...................... QEMU, Makefile, CLI, Terminal
 
-. Languages.Programming: .......... Java, Python, JavaScript, C++
-. Languages.Computer: ............. HTML, CSS, JSON, LaTeX, YAML
-. Languages.Real: ................. English, Spanish
+. Languages.Programming: ........ C, Assembly (nasm), VHDL, Verilog
+. Languages.Computer: ........... Nix, Shell, FAT12, Bash
+. Languages.Real: ............... Arabic, English
 
-. Hobbies.Software: .... Minecraft Modding, iOS Jailbreaking
-. Hobbies.Hardware: ............... Overclocking, Undervolting
+. Hobbies.Software: ..... Bare-Metal OS Dev, NixOS Customization
+. Hobbies.Hardware: ..... STM32 CAN Bus Hacking, FDM 3D Printing
+. Hobbies.Physical: ..... Calisthenics (Nightwing Build), Muay Thai
 
-- Contact --------------------------------------------------------
-. Email.Personal: ........................... agrantnmac@gmail.com
-. Email.Personal: ........................... andrew@grant.software
-. Email.Work: ..................... Andrew.Grant@ttmtech.com
-. LinkedIn: ........................................... andrewgrant
-. Discord: ............................................ andrewgrant
+- Identity & Contact ---------------------------------------------
+. Name: ......................... Almotaz Almanaseer
+. Education: .................... B.Sc. Electrical & Computer Eng.
+. Target: ....................... MS Robotics Prep (MBZUAI)
+. Transport: .................... BMW E90 Restomod & Ford Fusion
+. GitHub: ............................................... 0xs1nz
 
-- GitHub Stats ---------------------------------------------------
-. Repos: .... 95 (Contributed: 133) | Stars: ................. 342
-. Commits: ........................ 2,116 | Followers: ......... 196
-. Lines of Code on GitHub:. 446,276 ( 523,178++, 76,902-- )
+- Dev Stats ------------------------------------------------------
+. Repos: .... 42 (Contributed: 128) | Stars: .................. 99
+. Commits: ........................ 2,048 | Followers: ........ 42
+. Lines of Code in C/Asm:.. 104,276 ( 123,178++, 18,902-- )

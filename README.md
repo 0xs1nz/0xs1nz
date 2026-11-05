@@ -1,7 +1,7 @@
-```text
+```yaml
 sanz@nixos -------------------------------------------------------
 . OS: ........................... NixOS, Linux (Hyprland Wayland)
-. Uptime: ....................... 22 years
+. Uptime: ....................... 23 years
 . Host: ......................... 42 Network & HTU Semi-conductor
 . Kernel: ...... sanzOS (x86 Bare-Metal) / Custom Core Developer
 . Dev_Env: ...................... QEMU, Makefile, CLI, Terminal
@@ -15,7 +15,7 @@ sanz@nixos -------------------------------------------------------
 . Hobbies.Physical: ..... Calisthenics (Nightwing Build), Muay Thai
 
 - Identity & Contact ---------------------------------------------
-. Name: ......................... Almotaz Almanaseer
+. Name: ......................... Almotaz Elmanaseer (معتز)
 . Education: .................... B.Sc. Electrical & Computer Eng.
 . Target: ....................... MS Robotics Prep (MBZUAI)
 . Transport: .................... BMW E90 Restomod & Ford Fusion

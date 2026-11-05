@@ -12,10 +12,9 @@ sanz@nixos -------------------------------------------------------
 
 . Hobbies.Software: ..... Bare-Metal OS Dev, NixOS Customization
 . Hobbies.Hardware: ..... STM32 CAN Bus Hacking, FDM 3D Printing
-. Hobbies.Physical: ..... Calisthenics (Nightwing Build), Muay Thai
 
 - Identity & Contact ---------------------------------------------
-. Name: ......................... Almotaz Elmanaseer (معتز)
+. Name: ......................... Almotaz Almanaseer
 . Education: .................... B.Sc. Electrical & Computer Eng.
 . Target: ....................... MS Robotics Prep (MBZUAI)
 . Transport: .................... BMW E90 Restomod & Ford Fusion

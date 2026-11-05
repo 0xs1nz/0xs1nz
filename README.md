@@ -17,7 +17,7 @@ sanz@nixos -------------------------------------------------------
 . Name: ......................... Almotaz Almanaseer
 . Education: .................... B.Sc. Electrical & Computer Eng.
 . Target: ....................... MS Robotics Prep (MBZUAI)
-. Transport: .................... BMW E90 Restomod & Ford Fusion
+. Transport: .................... BMW E90 Restomod 
 . GitHub: ............................................... 0xs1nz
 
 - Dev Stats ------------------------------------------------------
